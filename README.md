@@ -13,11 +13,6 @@ A stylish and responsive web-based calculator using **HTML**, **CSS**, and **Jav
 - Real-time visual feedback with hover and active button effects
 - Grid layout for clean and accessible UI
 
-## 🖼️ Preview
-
-<!-- Replace with actual image if available -->
-<img src="preview.png" alt="Calculator Preview" width="400"/>
-
 ## 📁 Project Structure
 
 - `index.html` – Structure of the calculator UI
